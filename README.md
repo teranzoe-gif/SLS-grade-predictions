@@ -2,12 +2,20 @@
 
 
 git clone ... 
-  - to add to your local computer
+to add to your local computer
+
+
 git add .
-  - adding files
+adding files
+
+
 git commit -m "message"
-  - adding a title to your version code
+adding a title to your version code
+
+
 git push
-  - merging iwht the 
+merging iwht the 
+
+
 git pull
-  - getting the recent changes
+getting the recent changes
